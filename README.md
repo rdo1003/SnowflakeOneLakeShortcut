@@ -2,7 +2,7 @@
 
 ## Overview
 
-This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortcut) and leverage Power BI Copilot for conversational analytics and automated report generation. Enabling AI-driven analytics through OneLake Shortcuts.
+The demo shows how to integrate Snowflake with Microsoft Fabric using a OneLake Shortcut so you can query Snowflake data in Fabric without copying it. It walks through creating the shortcut, enabling Iceberg/metadata virtualization where needed, then building a Fabric semantic model on top of that data. Then use Power BI Copilot to chat with the dataset and auto‑generate reports from the semantic model, illustrating conversational analytics on Snowflake‑hosted transactional data with minimal movement and fast time‑to‑insight.
 
 **Demo Objectives**
 - Connect Snowflake to Fabric using Shortcut.
