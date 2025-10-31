@@ -33,7 +33,7 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
     - Use a Shortcut in Fabric to link Snowflake.
 2. Create Semantic Model
     - View your Iceberg tables in OneLake
-    - 
+      
         <img width="299" height="350" alt="image" src="https://github.com/user-attachments/assets/7f852a16-261d-4891-9b61-426ac2a3ce17" />
 
     - Build a structured model in Fabric for optimized reporting.
