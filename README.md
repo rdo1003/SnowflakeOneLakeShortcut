@@ -17,7 +17,9 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric and leverag
 - Power BI Copilot: Enables natural language queries and report creation.
 
 **Prerequisites**
-- Create a free Snoflake trial or connect to an existing Snowflake instance
+- Create a free Snowflake trial or connect to an existing Snowflake instance
+  <img width="595" height="347" alt="image" src="https://github.com/user-attachments/assets/92669297-eefc-47c0-8532-ff385f98df4f" />
+
 - Sample Data -S&P500 Historical Stock Prices
   - https://www.kaggle.com/datasets/camnugent/sandp500?resource=download
 - Fabric Workspace Setting
@@ -26,18 +28,15 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric and leverag
 
 ## Step-by-Step Guide
 1. Connect to Snowflake DB
-  - Use a Shortcut in Fabric to link Snowflake.
+    - Use a Shortcut in Fabric to link Snowflake.
 2. Create Semantic Model
-  - Build a structured model in Fabric for optimized reporting.
+    - Build a structured model in Fabric for optimized reporting.
 3. Build Power BI Copilot Reports
-  - Use Copilot to chat with data and auto-generate reports.
+    - Use Copilot to chat with data and auto-generate reports.
 
 
 ## Helpful Resources
-
-- Tutorial: Configure a Microsoft Fabric Mirrored Database From Snowflake https://learn.microsoft.com/en-us/fabric/data-engineering/mirrored-database-snowflake
 - Configure Snowflake for Single sign-on with Microsoft Entra ID https://learn.microsoft.com/en-us/entra/identity/sso/snowflake
-- Use Snowflake with Iceberg tables in OneLake https://learn.microsoft.com/en-us/fabric/onelake/iceberg-tables
 - Use Iceberg tables with OneLake https://learn.microsoft.com/en-us/fabric/onelake/iceberg-tables
 
 
