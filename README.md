@@ -51,6 +51,16 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 - Use Iceberg tables with OneLake https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables#create-a-table-shortcut-to-an-iceberg-table
 
 
+# Copilot & AI Features
+
+- [Copilot in Power BI Overview](#copilot-in-power-bi-overview)
+
+- [Create Reports with Copilot](#create-reports-with-copilot)
+
+- [Copilot in Power BI Service - Summarize a report](#copilot-in-power-bi-service---summarize-a-report)
+
+- [Copilot to create DAX](#copilot-to-create-dax)
+
 ## Demo Highlights
 
 - Snowflake acts as the data warehouse.
