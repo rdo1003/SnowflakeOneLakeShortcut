@@ -47,6 +47,7 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 
 
 ## Helpful Resources
+
 - [Configure Snowflake for Single sign-on with Microsoft Entra ID](#https://learn.microsoft.com/en-us/entra/identity/sso/snowflake)
   
 - [Use Iceberg tables with OneLake](#https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables#create-a-table-shortcut-to-an-iceberg-table)
@@ -54,13 +55,15 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 
 ### Copilot & AI Features
 
-- [Copilot in Power BI Overview](#copilot-in-power-bi-overview)
 
-- [Create Reports with Copilot](#create-reports-with-copilot)
+- [Copilot in Power BI Overview](https://learn.microsoft.com/en-us/power-bi/copilot-overview)
 
-- [Copilot in Power BI Service - Summarize a report](#copilot-in-power-bi-service---summarize-a-report)
+- [Create Reports with Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports-with-copilot)
 
-- [Copilot to create DAX](#copilot-to-create-dax)
+- [Copilot in Power BI Service - Summarize a report](https://learn.microsoft.com/en-us/power-bi/copilot-summarize-report)
+
+- [Copilot to create DAX](https://learn.microsoft.com/en-us/power-bi/copilot-create-dax)
+
 
 ## Demo Highlights
 
