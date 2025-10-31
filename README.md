@@ -48,21 +48,21 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 
 ## Helpful Resources
 
-- [Configure Snowflake for Single sign-on with Microsoft Entra ID](#https://learn.microsoft.com/en-us/entra/identity/sso/snowflake)
+- [Configure Snowflake for Single sign-on with Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/sso/snowflake)
   
-- [Use Iceberg tables with OneLake](#https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables#create-a-table-shortcut-to-an-iceberg-table)
+- [Use Iceberg tables with OneLake](https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables#create-a-table-shortcut-to-an-iceberg-table)
 
 
-### Copilot & AI Features
-
-
-- [Copilot in Power BI Overview](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction)
-
-- [Create Reports with Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-desktop-report)
-
-- [Copilot in Power BI Service - Summarize a report](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-pane-summarize-content)
-
-- [Copilot to create DAX](https://learn.microsoft.com/en-us/dax/dax-copilot?toc=%2Fpower-bi%2Fcreate-reports%2FTOC.json&bc=%2Fpower-bi%2Fcreate-reports%2Fbreadcrumb%2Ftoc.json)
+    ### Copilot & AI Features
+    
+    
+    - [Copilot in Power BI Overview](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction)
+    
+    - [Create Reports with Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-desktop-report)
+    
+    - [Copilot in Power BI Service - Summarize a report](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-pane-summarize-content)
+    
+    - [Copilot to create DAX](https://learn.microsoft.com/en-us/dax/dax-copilot?toc=%2Fpower-bi%2Fcreate-reports%2FTOC.json&bc=%2Fpower-bi%2Fcreate-reports%2Fbreadcrumb%2Ftoc.json)
 
 
 ## Demo Highlights
