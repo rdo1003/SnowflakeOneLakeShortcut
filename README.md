@@ -51,9 +51,10 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 
 ## Helpful Resources
 
-- [Configure Snowflake for Single sign-on with Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/saas-apps/snowflake-tutorial)
-  
 - [Use Iceberg tables with OneLake](https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables#create-a-table-shortcut-to-an-iceberg-table)
+
+- [Configure Snowflake for Single sign-on with Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/saas-apps/snowflake-tutorial)
+
 
 
     ### Copilot & AI Features
