@@ -32,8 +32,12 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 1. Connect to Snowflake DB  -Follow "_Connect to your Snowflake instance in any cloud_" section from [Tutorial: Configure a Microsoft Fabric Mirrored Database From Snowflake](https://learn.microsoft.com/en-us/fabric/mirroring/snowflake-tutorial)
     - Use a Shortcut in Fabric to link Snowflake.
 2. Create Semantic Model
+    - View your Iceberg tables in OneLake
+    - 
+        <img width="299" height="350" alt="image" src="https://github.com/user-attachments/assets/7f852a16-261d-4891-9b61-426ac2a3ce17" />
+
     - Build a structured model in Fabric for optimized reporting.
-3. Build Power BI Copilot Reports
+4. Build Power BI Copilot Reports
     - Use Copilot to chat with data and auto-generate reports.
 
 ## Connecting from PBI
