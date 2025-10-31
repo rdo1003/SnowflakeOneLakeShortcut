@@ -13,7 +13,8 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 
 **Architecture**
 - Enabling AI-driven analytics through OneLake Shortcuts
-    <img width="206" height="286" alt="image" src="https://github.com/user-attachments/assets/83e426be-b686-40e7-9cdf-2484627a9e16" />
+  <img width="206" height="286" alt="image" src="https://github.com/user-attachments/assets/83e426be-b686-40e7-9cdf-2484627a9e16" />
+
 
 - Snowflake: Serves as the data warehouse for transactional data.
 - Microsoft Fabric: Hosts the semantic model and integrates with OneLake.
