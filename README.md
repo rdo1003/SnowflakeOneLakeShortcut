@@ -34,6 +34,12 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric and leverag
 3. Build Power BI Copilot Reports
     - Use Copilot to chat with data and auto-generate reports.
 
+## Connecting from PBI
+
+<img width="704" height="473" alt="image" src="https://github.com/user-attachments/assets/6e0c9b8a-8e34-4d3e-873d-653223f9a334" />
+- Select More... search for Snowflake
+<img width="506" height="144" alt="image" src="https://github.com/user-attachments/assets/0d9887a8-ff7b-426c-9b5b-61a23416b6ea" />
+
 
 ## Helpful Resources
 - Configure Snowflake for Single sign-on with Microsoft Entra ID https://learn.microsoft.com/en-us/entra/identity/sso/snowflake
