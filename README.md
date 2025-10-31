@@ -27,7 +27,7 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
   - https://www.kaggle.com/datasets/camnugent/sandp500?resource=download
 - Fabric Workspace Setting
   - Enable Delta Lake to Apache Iceberg table format virtualization (Preview) in OneLake.
-
+- Power BI Copilot enabled in the tenant
 
 ## Step-by-Step Guide
 1. Connect to Snowflake DB
