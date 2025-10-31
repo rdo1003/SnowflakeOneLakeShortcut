@@ -23,8 +23,7 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 - Create a free Snowflake trial or connect to an existing Snowflake instance
   <img width="595" height="347" alt="image" src="https://github.com/user-attachments/assets/92669297-eefc-47c0-8532-ff385f98df4f" />
 
-- Ingest data into Snowflake -e.g. sample data -S&P500 Historical Stock Prices
-  - https://www.kaggle.com/datasets/camnugent/sandp500?resource=download
+- Ingest data into Snowflake -e.g. sample data -S&P500 Historical Stock Prices https://www.kaggle.com/datasets/camnugent/sandp500?resource=download
 - Fabric Workspace Setting
   - Enable Delta Lake to Apache Iceberg table format virtualization (Preview) in OneLake.
 - Power BI Copilot enabled in the tenant
