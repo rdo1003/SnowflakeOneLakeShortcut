@@ -1,6 +1,6 @@
-**Fabric + Snowflake Power BI Copilot Demo**
+# Fabric + Snowflake Power BI Copilot Demo 
 
-**Overview**
+## Overview
 
 This demo showcases how to integrate Snowflake with Microsoft Fabric and leverage Power BI Copilot for conversational analytics and automated report generation.
 
@@ -25,15 +25,12 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric and leverag
 
 
 Step-by-Step Guide
-Connect to Snowflake DB
-Use a Shortcut in Fabric to link Snowflake.
-Create Semantic Model
-Build a structured model in Fabric for optimized reporting.
-
-
-Build Power BI Copilot Reports
-
-Use Copilot to chat with data and auto-generate reports.
+1. Connect to Snowflake DB
+  - Use a Shortcut in Fabric to link Snowflake.
+2. Create Semantic Model
+  - Build a structured model in Fabric for optimized reporting.
+3. Build Power BI Copilot Reports
+  - Use Copilot to chat with data and auto-generate reports.
 
 
 
