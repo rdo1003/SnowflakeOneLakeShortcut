@@ -37,7 +37,7 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric and leverag
 
 ## Helpful Resources
 - Configure Snowflake for Single sign-on with Microsoft Entra ID https://learn.microsoft.com/en-us/entra/identity/sso/snowflake
-- Use Iceberg tables with OneLake https://learn.microsoft.com/en-us/fabric/onelake/iceberg-tables
+- Use Iceberg tables with OneLake https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables#create-a-table-shortcut-to-an-iceberg-table
 
 
 ## Demo Highlights
