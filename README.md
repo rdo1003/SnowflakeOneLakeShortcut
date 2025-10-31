@@ -56,13 +56,13 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 ### Copilot & AI Features
 
 
-- [Copilot in Power BI Overview](https://learn.microsoft.com/en-us/power-bi/copilot-overview)
+- [Copilot in Power BI Overview](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction)
 
-- [Create Reports with Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports-with-copilot)
+- [Create Reports with Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-desktop-report)
 
-- [Copilot in Power BI Service - Summarize a report](https://learn.microsoft.com/en-us/power-bi/copilot-summarize-report)
+- [Copilot in Power BI Service - Summarize a report](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-pane-summarize-content)
 
-- [Copilot to create DAX](https://learn.microsoft.com/en-us/power-bi/copilot-create-dax)
+- [Copilot to create DAX](https://learn.microsoft.com/en-us/dax/dax-copilot?toc=%2Fpower-bi%2Fcreate-reports%2FTOC.json&bc=%2Fpower-bi%2Fcreate-reports%2Fbreadcrumb%2Ftoc.json)
 
 
 ## Demo Highlights
