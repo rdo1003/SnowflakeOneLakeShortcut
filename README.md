@@ -26,7 +26,7 @@ This demo showcases how to integrate Snowflake with Microsoft Fabric (via shortc
 - Ingest data into Snowflake -e.g. sample data -S&P500 Historical Stock Prices https://www.kaggle.com/datasets/camnugent/sandp500?resource=download
 - Fabric Workspace Setting
   - Enable Delta Lake to Apache Iceberg table format virtualization (Preview) in OneLake.
-- Power BI Copilot enabled in the tenant
+- Power BI Copilot enabled in the Fabric admin portal
 
 ## Step-by-Step Guide
 1. Connect to Snowflake DB  -Follow "_Connect to your Snowflake instance in any cloud_" section from [Tutorial: Configure a Microsoft Fabric Mirrored Database From Snowflake](https://learn.microsoft.com/en-us/fabric/mirroring/snowflake-tutorial)
