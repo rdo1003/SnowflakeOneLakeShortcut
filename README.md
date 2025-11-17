@@ -30,7 +30,7 @@ The demo shows how to integrate Snowflake with Microsoft Fabric using a OneLake 
 
 ## Step-by-Step Guide
 1. Connect to Snowflake DB  -Follow "_Connect to your Snowflake instance in any cloud_" section from [Tutorial: Configure a Microsoft Fabric Mirrored Database From Snowflake](https://learn.microsoft.com/en-us/fabric/mirroring/snowflake-tutorial)
-   #Please note: The above tutorial is only referenced here for Snowflake Database connection details; we are not mirroring this database
+   ***Please note: The above tutorial is only referenced here for Snowflake Database connection details; we are not mirroring this database
     - Use a Shortcut in Fabric to link Snowflake.
 3. Create Semantic Model
     - View your Iceberg tables in OneLake
